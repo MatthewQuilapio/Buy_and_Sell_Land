@@ -5,7 +5,8 @@ This project can also be used as a **guide for building database systems**, show
 
 ## How It's Made
 
-This project is built with **Python** for the application logic and **MySQL** for data storage.  
+**Tech Used: ** Python, MySQL
+
 Python handles user interactions, CRUD operations, and business logic, while MySQL manages the database for storing land listings, user details, and appointments.  
 The integration demonstrates how a Python application can interact with a relational database to create a functional property management system.
 
