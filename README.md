@@ -10,4 +10,4 @@ This project can also be used as a **guide for building database systems**, show
 Python handles user interactions, CRUD operations, and business logic, while MySQL manages the database for storing land listings, user details, and appointments.  
 The integration demonstrates how a Python application can interact with a relational database to create a functional property management system.
 
-##Features
+## Features
